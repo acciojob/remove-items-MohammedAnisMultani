@@ -16,7 +16,7 @@ function avojao(e){
 
     }
 
-    if(selectedIndex==-1){
+    if(selectedIndex !==-1){
        colorSelect.remove(selectedIndex);
     }
 
